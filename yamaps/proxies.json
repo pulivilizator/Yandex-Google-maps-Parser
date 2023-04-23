@@ -1,0 +1,51 @@
+[
+    {
+     "scheme": "socks5",
+     "hostname": "88.218.74.147",
+     "port": 9114,
+     "username": "CSnKVD",
+     "password": "fy784a"
+ },
+    {
+     "scheme": "socks5",
+     "hostname": "88.218.72.128",
+     "port": 9842,
+     "username": "CSnKVD",
+     "password": "fy784a"
+ },
+    {
+     "scheme": "socks5",
+     "hostname": "88.218.72.242",
+     "port": 9688,
+     "username": "CSnKVD",
+     "password": "fy784a"
+ },
+    {
+     "scheme": "socks5",
+     "hostname": "91.188.240.205",
+     "port": 9199,
+     "username": "W88237",
+     "password": "mEhhft"
+ },
+    {
+     "scheme": "socks5",
+     "hostname": "91.188.242.200",
+     "port": 9011,
+     "username": "W88237",
+     "password": "mEhhft"
+ },
+    {
+     "scheme": "socks5",
+     "hostname": "91.188.240.215",
+     "port": 9369,
+     "username": "W88237",
+     "password": "mEhhft"
+ },
+    {
+     "scheme": "socks5",
+     "hostname": "91.188.242.247",
+     "port": 9565,
+     "username": "W88237",
+     "password": "mEhhft"
+ }
+]
