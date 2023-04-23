@@ -17,7 +17,7 @@ def pars(hrefs: list[str]) -> NoReturn:
     config = configparser.ConfigParser()
     config.read('config.ini', encoding='utf-8')
     a = int(multiprocessing.current_process().name.split('-')[1])
-
+#
     cpu = multiprocessing.cpu_count()
     time.sleep(a * 2)
 
