@@ -13,7 +13,7 @@ from selenium.webdriver.common.action_chains import ScrollOrigin
 import requests
 from bs4 import BeautifulSoup
 from options_gmap import options
-
+#
 def get_hrefs() -> list:
 	data = []
 	hrefs = []
